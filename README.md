@@ -1,1 +1,1 @@
-A Coinbase dollar-cost averaging script that automatically purchases ₿itcoin, deployed as an Azure Function.
+A Coinbase dollar-cost averaging script that automatically purchases Bitcoin, deployed as an Azure Function.
